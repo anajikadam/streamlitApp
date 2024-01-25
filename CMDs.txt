@@ -1,0 +1,11 @@
+C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe -m venv VenvStreamlit
+
+VenvStreamlit\Scripts\activate
+
+
+streamlit run app.py
+
+pip freeze > requirements.txt
+
+
+
